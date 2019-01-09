@@ -1,0 +1,11 @@
+/Users/scott/Documents/Projects/CassandraMigrator/CassandraMigrator/bin/Debug/netcoreapp2.0/CassandraMigrator.deps.json
+/Users/scott/Documents/Projects/CassandraMigrator/CassandraMigrator/bin/Debug/netcoreapp2.0/CassandraMigrator.runtimeconfig.json
+/Users/scott/Documents/Projects/CassandraMigrator/CassandraMigrator/bin/Debug/netcoreapp2.0/CassandraMigrator.runtimeconfig.dev.json
+/Users/scott/Documents/Projects/CassandraMigrator/CassandraMigrator/bin/Debug/netcoreapp2.0/CassandraMigrator.dll
+/Users/scott/Documents/Projects/CassandraMigrator/CassandraMigrator/bin/Debug/netcoreapp2.0/CassandraMigrator.pdb
+/Users/scott/Documents/Projects/CassandraMigrator/CassandraMigrator/obj/Debug/netcoreapp2.0/CassandraMigrator.csproj.CoreCompileInputs.cache
+/Users/scott/Documents/Projects/CassandraMigrator/CassandraMigrator/obj/Debug/netcoreapp2.0/CassandraMigrator.AssemblyInfoInputs.cache
+/Users/scott/Documents/Projects/CassandraMigrator/CassandraMigrator/obj/Debug/netcoreapp2.0/CassandraMigrator.AssemblyInfo.cs
+/Users/scott/Documents/Projects/CassandraMigrator/CassandraMigrator/obj/Debug/netcoreapp2.0/CassandraMigrator.dll
+/Users/scott/Documents/Projects/CassandraMigrator/CassandraMigrator/obj/Debug/netcoreapp2.0/CassandraMigrator.pdb
+/Users/scott/Documents/Projects/CassandraMigrator/CassandraMigrator/obj/Debug/netcoreapp2.0/CassandraMigrator.csprojAssemblyReference.cache
